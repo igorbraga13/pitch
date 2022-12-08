@@ -2,10 +2,10 @@
   O pitch é uma técnica de apresentação breve e direta, com duração aproximada de 5 a 8 minutos, que costuma ser feito para outros investidores ou empreendedores, afim de convencê-los sobre suas ideias. Pode ser feito apenas verbalmente ou com slides concisos para auxiliar. Nele, você irá tentar vender suas ideias e conceitos relevantes, além é claro, de suas vantagens. Sua objetividade desperta mais facilmente o interesse do ouvinte, que pode ser além de um investidor, um parceiro de negócios. Caso seja bem-sucedida a apresentação do Pitch, quem o apresentou terá oportunidade de detalhar, posteriormente, suas ideias.
 
 # O que é um Elevator Pitch?
-O Elevator Pitch é um formato de Pitch, porém mais rápido ainda, apresentando seu negócio de forma simples, assertiva e extremamente rápida. O tempo médio de um Elevator Pitch varia entre 30 segundos e 1 minuto. Seu nome veio da premissa de que “qualquer pessoa que esteja em um elevador consiga entender sua ideia”, cenário muito comum em empresas, em que você deve sempre estar pronto para as oportunidades, podendo ser inclusive no elevador após o café.
+  O Elevator Pitch é um formato de Pitch, porém mais rápido ainda, apresentando seu negócio de forma simples, assertiva e extremamente rápida. O tempo médio de um Elevator Pitch varia entre 30 segundos e 1 minuto. Seu nome veio da premissa de que “qualquer pessoa que esteja em um elevador consiga entender sua ideia”, cenário muito comum em empresas, em que você deve sempre estar pronto para as oportunidades, podendo ser inclusive no elevador após o café.
 
 # O que deve conter um Pitch?
-Um Pitch deve ser constituído de, basicamente, 5 partes:
+  Um Pitch deve ser constituído de, basicamente, 5 partes:
 
 __Problema/Oportunidade:__ Deve apresentar os problemas já enfrentados pelos  público-alvo do seu produto, a partir das necessidades e contexto do mercado. Dados reais e ilustrativos tendem a despertar o interesse do seu ouvinte.
 
@@ -38,6 +38,8 @@ Confie em você mesmo. Se você não conseguir se convencer sobre seu próprio p
 
 
 
+### Fontes
 
 https://blog.nubank.com.br/pitch/
+
 https://rockcontent.com/br/blog/navalha-de-occam/
